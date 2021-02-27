@@ -1,6 +1,7 @@
 {
     "name": "Shayari Status All is best app in India",
     "short_name": "Shayari Status All",
+    "start_url": "https://shayaristatusall.blogspot.com",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
